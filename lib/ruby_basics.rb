@@ -1,5 +1,5 @@
 def division(num1, num2)
- quotient = num1 / num 2
+ sum = num1 / num 2
  return quotient
 end
 
